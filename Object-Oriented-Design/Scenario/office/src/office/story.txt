@@ -1,0 +1,13 @@
+Scenario-1
+Mr. AB works in an office as manager. He has employee id, working hour and shift. His responsibility is to do two works. 1) to check documents’ status.If documents’ status is “Good”, then “We can deal” will be printed. And If documents’ status is “Done”, then “Proceed” will be printed. Admin can check managers’ working hours. If the working hour is more than 8 hours, “new work assignment” will be printed and if the working hour is less or equals 8 hours, “do previous work” will be printed.
+Object: Mr AB , Class: Employee
+State: employee id, working hour and shift.
+Behaviour: check documents’ status
+Object: Admin, Class: Admin
+State: none
+Behaviour:  can check managers’ working hours
+Object: Document, class: Document
+State: status
+Name of classes, variables and methods for each classes
+Design the classes with proper attributes
+Call all the methods from the main class.
