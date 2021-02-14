@@ -1,0 +1,10 @@
+Scenario-2
+In Ab hospital, doctors can check reports. Each report has a category, location and status. While checking the report, if the doctor finds the category is Normal and location is Green, then “Forwarded to hospital” is printed and if the doctor finds the category is Advanced and status is Better, then “Stay here” is printed. Each doctor has a salary and performance. Chairman of the system can assign the doctor's salary. 
+Object: Doctor, 
+State: salary, performance
+Behaviour: can check report, ?
+Class: Doctor
+Object: report
+State: category, location and status
+1. Design the classes with proper attributes
+2. Call all the methods from the main class.
