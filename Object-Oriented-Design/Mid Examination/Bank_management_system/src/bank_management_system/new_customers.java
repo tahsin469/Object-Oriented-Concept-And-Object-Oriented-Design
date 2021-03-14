@@ -9,9 +9,7 @@ public class new_customers extends customers{
         super(id, name);
        
     }
-    void check_account_balance_saving_account(account a1){
-        System.out.println(a1.balance);
-    }
+   
     void check_account_balance_current_account(account a1){
         System.out.println(a1.balance);
     }
