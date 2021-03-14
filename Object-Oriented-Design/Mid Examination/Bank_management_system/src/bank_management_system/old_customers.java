@@ -29,7 +29,5 @@ public class old_customers extends customers{
      void check_account_balance_saving_account(account a1){
         System.out.println(a1.balance);
     }
-    void check_account_balance_current_account(account a1){
-        System.out.println(a1.balance);
-    }
+    
 }
