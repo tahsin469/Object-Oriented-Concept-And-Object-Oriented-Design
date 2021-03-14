@@ -20,10 +20,10 @@ public class Main {
         current_account_obj.first_10_transactions();
         saving_account_obj.after_5_deposits();
         current_account_obj.after_10_transactions();
-        new_customers_obj.check_account_balance_saving_account(saving_account_obj);
+       
         new_customers_obj.check_account_balance_current_account(current_account_obj);
         old_customers_obj.check_account_balance_saving_account(saving_account_obj);
-        old_customers_obj.check_account_balance_current_account(current_account_obj);
+        
         
         
     }
