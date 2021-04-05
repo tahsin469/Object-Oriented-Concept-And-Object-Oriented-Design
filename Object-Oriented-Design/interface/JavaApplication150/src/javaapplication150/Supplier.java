@@ -8,6 +8,6 @@ public class Supplier {
         soid_item = s;
     }
     public void getBonus(){
-        System.err.println("Bonus is "+soid_item*15);
+        System.out.println("Bonus is "+soid_item*15);
     }
 }
