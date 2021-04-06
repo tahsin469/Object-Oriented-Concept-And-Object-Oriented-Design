@@ -3,5 +3,5 @@ package javaapplication150;
 
 
 public interface IBonus {
-     void getBonus();
+     void getBonus();//abstruct method
 }
