@@ -14,7 +14,7 @@ public class GeneralStudent extends Student{
 
     void waiver() {
 
-        if(cgpa>3.8){
+        if(cgpa>3.80){
 
             System.out.println("You will get 20% Waiver");
 
